@@ -917,7 +917,7 @@ namespace StemBit_Car {
             case enMusic.power_down: music.beginMelody(music.builtInMelody(Melodies.PowerDown), MelodyOptions.Once); break;
         }
     }
-    //% blockId=stembit_Servo_Car block="Car Servo number %num| Angle %value"
+    //% blockId=stembit_Servo_Car block="Car servo number %num| angle %value"
     //% weight=96
     //% blockGap=10
     //% color="#006400"
@@ -972,7 +972,7 @@ namespace StemBit_Car {
         return temp;
 
     }
-    //% blockId=stembit_Line_Sensor block="Line Sensor position %direct|detected %value"
+    //% blockId=stembit_Line_Sensor block="Line sensor position %direct|detected %value"
     //% weight=94
     //% blockGap=10
     //% color="#006400"
@@ -1017,7 +1017,7 @@ namespace StemBit_Car {
         return temp;
 
     }
-    //% blockId=stembit_CarCtrl block="Car Control |%index"
+    //% blockId=stembit_CarCtrl block="Car control |%index"
     //% weight=93
     //% blockGap=10
     //% color="#006400"
@@ -1033,7 +1033,7 @@ namespace StemBit_Car {
             case CarState.Car_SpinRight: Car_spinright(255, 255); break;
         }
     }
-    //% blockId=stembit_CarCtrlSpeed block="Car Control |%index| speed %speed"
+    //% blockId=stembit_CarCtrlSpeed block="Car control |%index| speed %speed"
     //% weight=92
     //% blockGap=10
     //% speed.min=0 speed.max=255
@@ -1050,7 +1050,7 @@ namespace StemBit_Car {
             case CarState.Car_SpinRight: Car_spinright(speed, speed); break;
         }
     }
-    //% blockId=stembit_CarCtrlSpeed2 block="Carcontrol|%index| left speed %speed1|right speed %speed2"
+    //% blockId=stembit_CarCtrlSpeed2 block="Car control|%index| left speed %speed1|right speed %speed2"
     //% weight=91
     //% blockGap=10
     //% speed1.min=0 speed1.max=255 speed2.min=0 speed2.max=255
