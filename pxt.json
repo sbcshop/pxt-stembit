@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:Microsoft/pxt-neopixel",
-        "StemBit_IR": "github:sbcshop/pxt-stembit-ir"
+        "StemBit_IR": "github:sbcshop/pxt-stembit-remote"
     },
     "files": [
         "README.md",
