@@ -1,10 +1,13 @@
 # Stem:Bit - The programmable block kit for micro:bit
 
 This is makecode extension for Stem Bit by SB Components.
+
 To add extension to makecode, click ***Advanced > Extensions***
 
 Enter github link https://github.com/sbcshop/pxt-stembit.git in the box and
- search. Tap on the StemBit box. Follow Stem:Bit instruction manual for
+ search. Tap on the StemBit box. 
+ 
+ Follow Stem:Bit instruction manual for
   using blocks and making different shapes with blocks.
 
 
