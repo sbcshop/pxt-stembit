@@ -10,12 +10,20 @@ Enter github link https://github.com/sbcshop/pxt-stembit.git in the box and
  Follow Stem:Bit instruction manual for
   using blocks and making different shapes with blocks.
 
+### Features
+
+- Easy to assemble.
+- Easy to code.
+- Improves imagination power.
+- Nurture creativity.
+- Learn the basics of electronics.
+
 
 STEM stands for Science Technology Engineering Mathematics and bit is small
  quantity.
  
  
- ![STEM](Images/stembit_3.jpg)
+ ![STEM](Images/stembit_3.png)
  
  
  The Stem:bit is made by keeping in mind the importance of STEM
