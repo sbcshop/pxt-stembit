@@ -1,21 +1,19 @@
-# StemBit
+# Stem:Bit - The programmable block kit for micro:bit
 
-This is makecode extension for Stem Bit by SB Components
+This is makecode extension for Stem Bit by SB Components.
 
-## TODO
+STEM stands for Science Technology Engineering Mathematics and bit is small
+ quantity. The Stem:bit is made by keeping in mind the importance of STEM
+ subjects for students. Stem:Bit is collection of building blocks which can
+be reshaped in different shapes. Stem:Bit is about exploring creativity in
+students. Most important feature of Stem:Bit is that it can be programmed
+ with easy drag and drop boxes called as block programming. 
+ 
+ This extension is meant to program Stem:Bit, however its blocks can be used
+  for interfacing sensors and motors separably.
+  
+  
+  ![StemBit](Images/stembit_1.png)
 
-- [ ] Add a reference for your blocks here
-- [ ] Add "icon.png" image (300x200) in the root folder
-- [ ] Add "- beta" to the GitHub project description if you are still iterating it.
-- [ ] Turn on your automated builds with GitHub Actions or Travis-CI https://travis-ci.org
-- [ ] Use "pxt bump" to create a tagged release on GitHub
-- [ ] On GitHub, create a new file named LICENSE. Select the MIT License template.
-- [ ] Get your package reviewed and approved https://makecode.microbit.org/extensions/approval
 
-Read more at https://makecode.microbit.org/extensions
-
-## Supported targets
-
-* for PXT/microbit
-(The metadata above is needed for package search.)
 
