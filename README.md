@@ -33,7 +33,7 @@ The Stem:bit is made by keeping in mind the importance of STEM subjects for stud
  
 This extension is meant to program Stem:Bit, however its blocks can be used for interfacing sensors and motors separately.
   
-![StemBit_BOARD](Images/stembit_board.png)
+![StemBit_BOARD](Images/stembit_board.jpg)
 
 
 This kit is a combination of the electronic components with building block, and users can control them with micro:bit programming, such as infrared remote control, obstacle  avoidance, tracking, colorful lights and other functions. The building blocks are also compatible with LEGO, that if you are interested in building blocks and want to learn programming, this building block will be a good choice. 
