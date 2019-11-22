@@ -28,8 +28,6 @@ STEM stands for Science Technology Engineering Mathematics and bit is small
  
 The Stem:bit is made by keeping in mind the importance of STEM subjects for students. Stem:Bit is collection of building blocks which can be reshaped in different shapes. Stem:Bit is about exploring creativity in students. Most important feature of Stem:Bit is that it can be programmed with easy drag and drop boxes called as block programming. 
 
-![StemBit](Images/stembit_1.png)
-
  
 This extension is meant to program Stem:Bit, however its blocks can be used for interfacing sensors and motors separately.
   
