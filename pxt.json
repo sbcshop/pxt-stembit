@@ -1,5 +1,5 @@
 {
-    "name": "mbit",
+    "name": "stembit",
     "version": "1.0.0",
     "description": "Extension for stembit",
     "license": "MIT",
@@ -12,9 +12,7 @@
     },
     "files": [
         "README.md",
-        "main.ts",
-        "_locales/en/stembit-strings.json"
-
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
