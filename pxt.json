@@ -1,0 +1,23 @@
+{
+    "name": "mbit",
+    "version": "1.0.0",
+    "description": "Extension for stembit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:pxt-stembit/pxt-neopixel"
+        
+	
+
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/en/stembit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
