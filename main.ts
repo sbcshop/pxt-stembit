@@ -1,6 +1,6 @@
 ﻿/*
 load dependency
-"stembit": "file:../pxt-mbit"
+"stembit": "file:../pxt-stembit"
 */
 
 
