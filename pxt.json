@@ -1,7 +1,7 @@
 {
     "name": "stembit",
     "version": "1.0.0",
-    "description": "Extension for stembit",
+    "description": "Extension for stembit.",
     "license": "MIT",
     "dependencies": {
         "core": "*",
