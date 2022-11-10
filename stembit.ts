@@ -1,11 +1,3 @@
-basic.showLeds(`
-    . # # # #
-    # . . . .
-    . # # # .
-    . . . . #
-    # # # # .
-    `);
-
 
 //% color="#6699ff" weight=25 icon="\uf1d4"
 namespace StemBit_Display {
