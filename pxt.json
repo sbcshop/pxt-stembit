@@ -1,0 +1,23 @@
+{
+    "name": "mbit",
+    "version": "3.0.5",
+    "description": "Extension for YahBoom m:bit V3.0.5",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
+        
+	
+
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/en/mbit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
